@@ -5,7 +5,7 @@ The wc-remote-client-server is a program I created in Java to demonstrate that c
 
 ### Features
 * Ability to access a machine remotely via the internet
-* Mouse movement and mouse clicks
+* Mouse movement and mouse clicks to work with different screen resolutions (source and target)
 * Keyboard shortcuts
 
 ## System Requirements
