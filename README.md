@@ -3,6 +3,11 @@
 ## Introduction
 The wc-remote-client-server is a program I created in Java to demonstrate that creating a [TeamViewer](https://www.teamviewer.com/) or [AnyDesk](https://anydesk.com/) like software is achievable. This by no means is a production ready piece of work and is not recommended to be used in relacement for commerically available remote desktop tools like the above mentioned. However, this was produced as an excerise to replicate that functionality in Java.
 
+### Features
+* Ability to access a machine remotely via the internet
+* Mouse movement and mouse clicks
+* Keyboard shortcuts
+
 ## System Requirements
 * Java 10+ (var keyword)
 * Gradle 6.3 or higher
